@@ -11,7 +11,13 @@ body {
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
+
+.navbar-brand {color: #fff}
+
+
 /* Special class on .container surrounding .navbar, used for positioning it into place. */
+navbar {color: #4078c0}
+
 .navbar-wrapper {
   position: absolute;
   top: 0;
