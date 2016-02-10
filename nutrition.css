@@ -1,3 +1,18 @@
 h3 {
-  color: #871414
+  color: #0b0c06
 }
+p1 {font-size: 30px;
+color: #08466b;
+padding-bottom: 20px}
+
+header {margin-top: 30px;}
+
+li {text-align: center;}
+
+h2 {margin-bottom: 30px;
+font-size: 25px;
+text-align: center;}
+
+body {background-color: #86dade;}
+
+h3 {text-decoration: underline;}
