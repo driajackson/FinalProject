@@ -1,0 +1,30 @@
+
+p2 {text-align: center;
+font-size: 25px;}
+
+
+.bonobos {
+	width: 100%;
+	background: #f1f2f2 url(../images/watermark.jpg) center top no-repeat;
+	padding: 50px 0;
+	text-align: center;
+}
+.bonobos h1 {
+	font-family: 'Geo', sans-serif;
+	font-size: 80px;
+	line-height: 84px;
+	margin: 0 0 30px;
+	text-transform: uppercase;
+	letter-spacing: -5px;
+	font-weight: normal;
+}
+.bonobos p {
+	font-family: 'Geo', sans-serif;
+	font-size: 40px;
+	line-height: 48px;
+	text-transform: uppercase;
+	margin: 0 0 20px;
+	letter-spacing: -3px;
+}
+
+p2 {text-align: center;}
